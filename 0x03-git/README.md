@@ -1,1 +1,1 @@
-my second commit
+git commit -m'hot fix'
